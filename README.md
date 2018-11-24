@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Implemented the code for the marked stories. however wont work properly on my computer anymore. 
 
 ## License
 
